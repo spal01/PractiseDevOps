@@ -1,3 +1,10 @@
 # PractiseDevOps
-
+Git
+Gitghub
+AzureDevops
+Welcome to DMT
+Welcome to HCL
+fdgdgdg
+fsdfsfs
+dfss
 i am dm
