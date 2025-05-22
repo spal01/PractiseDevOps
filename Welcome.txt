@@ -1,5 +1,5 @@
 Welcome to BBSR
-i am in master branch
+I am in Master in git hub
 I am in DM branch in git hub
 I am feature/loan in github
 Borrower details
