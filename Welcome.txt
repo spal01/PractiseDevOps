@@ -7,3 +7,4 @@ Last Name is Pal
 Phone number is 9080706054
 City is Tarakeswar
 District hooghly
+State west bengal
