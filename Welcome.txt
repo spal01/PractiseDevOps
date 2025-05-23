@@ -2,13 +2,3 @@ Welcome to BBSR
 I am in Master in git hub
 I am in DM branch in git hub
 I am feature/loan in github
-Borrower details
-First name Raja
-Last Name is Pal
-Phone number is 9080706054
-City is Tarakeswar
-District hooghly
-State west bengal
-I AM IN FEATURE Loan
-Given Username and Password
-Then Click on Login Button
