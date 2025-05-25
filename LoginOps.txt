@@ -1,3 +1,4 @@
 Given Username and Password
 Then Click on Login Button
 Then user should able to login
+home page opens
